@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 123 Check 123 ....
+title: 123456 Check 123 ....
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Quite impressive live editing. Not too bad
